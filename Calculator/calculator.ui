@@ -92,7 +92,7 @@ QPushButton:pressed{
        <string notr="true">QLineEdit{
 	background-color: #FFD7BE ;
 	border: 1px solid gray;
-	color: #0
+	color: #000000
 }</string>
       </property>
       <property name="text">
